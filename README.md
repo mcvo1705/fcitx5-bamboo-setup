@@ -2,7 +2,15 @@
 
 ---
 
-### ✅ Nội dung `README.md` mới (bạn chỉ cần copy và dán vào)
+### ✅ Nội dung `README.md` 
+Dưới đây là script hoàn chỉnh install-fcitx5.sh giúp:
+
+✅ Cài đặt fcitx5-bamboo
+✅ Thiết lập biến môi trường
+✅ Tự khởi động fcitx5 (cho Hyprland hoặc KDE/GNOME/khác)
+✅ Tạo cấu hình fcitx5 profile mặc định
+✅ Chạy tốt trên: Arch, Debian/Ubuntu, Fedora
+✅ Tự nhận diện: Hyprland, KDE, GNOME, XFCE...
 
 ````markdown
 # 🌿 Cài đặt bộ gõ tiếng Việt `fcitx5-bamboo` cho Hyprland & Linux
