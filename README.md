@@ -39,6 +39,13 @@ Mở Terminal và chạy:
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/mcvo1705/fcitx5-bamboo-setup/main/fcitx5-bamboo-setup.sh)
+Cách chạy script trong fish shell
+1. bash
+curl -s -o /tmp/setup-ibus-bamboo.sh https://raw.githubusercontent.com/mcvo1705/hyprland-ibus/main/setup-ibus-bamboo.sh
+bash /tmp/setup-ibus-bamboo.sh
+2. Hoặc dùng sh (nếu bash không có sẵn) fish
+curl -s -o /tmp/setup-ibus-bamboo.sh https://raw.githubusercontent.com/mcvo1705/hyprland-ibus/main/setup-ibus-bamboo.sh
+sh /tmp/setup-ibus-bamboo.sh
 ````
 
 ---
