@@ -1,4 +1,3 @@
-Dưới đây là nội dung `README.md` đã được **viết lại hoàn chỉnh và chuyên nghiệp**, dùng được ngay cho repo GitHub của bạn:
 🔗 Repo: [`mcvo1705/fcitx5-bamboo-setup`](https://github.com/mcvo1705/fcitx5-bamboo-setup)
 
 ---
